@@ -43,6 +43,17 @@ server/src/controllers/ItemsController.ts
 mobile/src/services/api.ts
 ```
 
+## Execução
+
+Na execução da aplicação web será possivel fazer o cadastros de novos pontos de coleta: 
+![A home da rotina web](readmeImages/home.png)
+
+Na execução da aplicação mobile será possível fazer a busca do pontos de coleta previamente cadastrados:
+![Home da rotina mobile](readmeImages/mobileHome.jpeg)
+![Busca localização rotina mobile](readmeImages/mobileLocation.jpeg)
+![Busca pontos da rotina mobile](readmeImages/mobileSearch.jpeg)
+![Detalhes da rotina mobile](readmeImages/mobileDetails.jpeg)
+
 ## Principais Tecnologias Utilizadas
 
 * [Node.js](https://nodejs.org/en/)
