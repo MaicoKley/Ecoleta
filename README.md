@@ -1,3 +1,5 @@
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # Ecoleta
 
 Durante a primeira Next Level Week foi desenvolvida um aplicação web para cadastro de pontos de coletas de resíduos utilizando a API do IBGE, mobile para a busca dos mesmos e uma API para gerenciar toda a aplicação:
@@ -68,3 +70,7 @@ Na execução da aplicação mobile será possível fazer a busca do pontos de c
 * [React Native](https://reactnative.dev/)
 * [Expo](https://expo.io/)
 * [API Localidade IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)
+
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/maico-kley/
